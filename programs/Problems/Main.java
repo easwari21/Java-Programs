@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Main {
+public class Main {
     public static void main(String[] args) 
     {
         int b, rem, rev = 0,a;
